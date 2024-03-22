@@ -1,0 +1,10 @@
+name: Backupbase
+author: zeppy5
+version: '${project.version}'
+main: de.zeppy5.backupbase.Backupbase
+api-version: 1.20
+load: STARTUP
+
+commands:
+  backupbase:
+
